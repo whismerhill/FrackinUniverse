@@ -26,7 +26,7 @@
     {
       "op": "replace",
       "path": "/shortdescription",
-      "value": "^#77acc3;Graphene^white;"
+      "value": "Graphene"
     },
     {
       "op": "add",
